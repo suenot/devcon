@@ -173,7 +173,7 @@ To edit code right on the serve use `nano` or `vim`
   - `rm -r build`
   - `truffle build`
   - `truffle migrate`
-  - `trufle serve`
+  - `truffle serve`
   - open `AZURE_VM_IP:8080` in your browser
  
 ### Additional tools
